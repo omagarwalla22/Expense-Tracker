@@ -42,4 +42,5 @@ Add the following environment variables to your config.env file in backend folde
 
 MONGO_URL : Your MongoDB Connection String
 
-PORT: PORT number#
+PORT: PORT number
+
